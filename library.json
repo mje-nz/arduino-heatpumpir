@@ -12,5 +12,5 @@
     "url": "https://github.com/ToniA/arduino-heatpumpir.git"
   },
   "frameworks": "arduino",
-  "platforms": "atmelavr"
+  "platforms": "*"
 }
